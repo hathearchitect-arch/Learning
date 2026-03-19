@@ -1,0 +1,1 @@
+ALTER TABLE "invitation" ADD COLUMN "send_invite" boolean DEFAULT false NOT NULL;

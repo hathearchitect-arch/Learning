@@ -1,0 +1,10 @@
+
+# sst
+.sst
+.git
+.next
+node_modules
+
+functions/
+.env
+.env*

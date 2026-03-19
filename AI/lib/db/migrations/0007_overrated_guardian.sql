@@ -1,0 +1,2 @@
+ALTER TABLE "agent" ADD COLUMN "is_tool_create_document_enabled" boolean DEFAULT false NOT NULL;--> statement-breakpoint
+ALTER TABLE "agent" ADD COLUMN "is_tool_update_document_enabled" boolean DEFAULT false NOT NULL;
